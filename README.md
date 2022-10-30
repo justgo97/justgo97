@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently sharpening my front-end development skills
 - 💬 Ask me about anything :)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi20/) Email:[hamdi.mar20@gmail.com](mailto:hamdi.mar20@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi20/) Or Email:[hamdi.mar20@gmail.com](mailto:hamdi.mar20@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Like many others my fuel is coffee ☕
 
