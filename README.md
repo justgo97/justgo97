@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently sharpening my front-end development skills
+- 🌱 I’m currently sharpening my web development skills
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi20/) Or Email to [hamdi.mar20@gmail.com](mailto:hamdi.mar20@gmail.com)
 - 😄 Pronouns: He/Him
