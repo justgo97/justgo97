@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently sharpening my web development skills
-- 💬 Ask me about anything :)
+- 💬 Ask me about anything related to my repos l:)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hamdi20/) Or Email to [hamdi.mar20@gmail.com](mailto:hamdi.mar20@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Like many others my fuel is coffee ☕
 
 
 <!--
